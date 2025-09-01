@@ -1,0 +1,14 @@
+// File: example.bl
+
+let count = 10;
+let total = 0;
+
+// A while loop to sum numbers from 1 to 'count'
+while (count) {
+    total = total + count;
+    count = count - 1;
+}
+
+// total will be 55.
+// The program will exit with code 5.
+exit(total / 11);
