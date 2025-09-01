@@ -1,0 +1,9 @@
+let a=1;
+let b=4;
+while (b) {
+    if(a){
+    print aaa;
+    a=a-1;
+    }
+    b=b-2;
+}
